@@ -1,0 +1,1 @@
+# https://flask-sqlalchemy-russian.readthedocs.io/ru/latest/models.html
